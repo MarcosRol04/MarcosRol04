@@ -10,13 +10,13 @@
 
 ---
 
-# 🚀 Sobre mí
+# Sobre mí
 
 💻 Desarrollador apasionado por el software, las tecnologías web y el aprendizaje constante.
 
 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
-⚡ Experiencia en:
+Experiencia en:
 - Desarrollo web
 - Bases de datos
 - Salesforce
@@ -27,7 +27,7 @@
 
 ---
 
-# 🛠️ Tecnologías
+#  Tecnologías
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 
 ---
 
-# 📌 Proyectos destacados
+#  Proyectos destacados
 
 <table>
 <tr>
@@ -75,15 +75,6 @@ Gestión de bases de datos SQL, consultas y administración de información.
 
 <td width="50%">
 
-## ☕ Aplicaciones Java
-
-Programación orientada a objetos, herencia, validaciones y estructuras avanzadas.
-
-</td>
-</tr>
-</table>
-
----
 
 # 📈 Actualmente aprendiendo
 
