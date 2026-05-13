@@ -2,7 +2,7 @@
 
 # 👨‍💻 Marcos Rol
 
-### Desarrollador DAM | Java · React · Python · Salesforce
+### Desarrollador DAM | Java · Apex · Python · Salesforce
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desarrollador+Multiplataforma;Java+%7C+React+%7C+Python+%7C+SQL;Salesforce+Developer;Apasionado+por+la+tecnolog%C3%ADa+y+la+IA" />
 
