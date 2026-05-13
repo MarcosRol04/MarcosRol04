@@ -59,6 +59,84 @@ Experiencia en:
 
 ---
 
+---
+
+# 🌐 Proyectos Web
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
+<h3>🔐 Plataforma de gestión con panel oculto</h3>
+
+<p>
+Desarrollo de una solución web orientada a la gestión segura de contenido y recompensas para un creador de contenido.
+</p>
+
+<p>
+Incluye un panel de administración privado que permite publicar y gestionar contenido, evitando automatizaciones mediante bots o scripts.
+</p>
+
+<p>
+Proyecto aplicado a un caso real, enfocado en control de acceso y lógica de negocio.
+</p>
+
+<a href="https://ampeterkey.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/Ver%20proyecto-00C853?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🎮 CS2 Case Simulator</h3>
+
+<p>
+Simulador web inspirado en la apertura de cajas de Counter Strike desarrollado como proyecto de aprendizaje.
+</p>
+
+<p>
+Incluye sistemas de upgrades, contratos y animaciones en JavaScript para crear una experiencia interactiva.
+</p>
+
+<p>
+Proyecto enfocado en práctica de HTML, CSS, JavaScript y despliegue con Netlify y GitHub.
+</p>
+
+<a href="https://cs2casessimulator.netlify.app/index.html" target="_blank">
+<img src="https://img.shields.io/badge/Ver%20proyecto-FF6B00?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+#  Gracias por visitar mi perfil
+
+<div align="center">
+
+💻 Desarrollador en constante aprendizaje  
+🤖 Interesado en IA, automatización y desarrollo moderno  
+📫 Abierto a prácticas, colaboraciones y oportunidades  
+
+
+<img src="https://komarev.com/ghpvc/?username=MarcosRol04&label=Visitas%20al%20perfil&color=0e75b6&style=flat" />
+
+</div>
+
+
+
+---
 # 🌍 Contacto
 
 <div align="center">
@@ -75,8 +153,3 @@ Experiencia en:
 
 ---
 
-<div align="center">
-
-### ⭐ Siempre aprendiendo y mejorando como desarrollador
-
-</div>
