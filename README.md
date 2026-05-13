@@ -43,39 +43,6 @@ Experiencia en:
 
 ---
 
-#  Proyectos destacados
-
-<table>
-<tr>
-<td width="50%">
-
-## ⚽ Predictor de fútbol
-
-Aplicación orientada al análisis de estadísticas y cálculo de probabilidades deportivas.
-
-</td>
-
-<td width="50%">
-
-## 🏫 Plataforma educativa
-
-Proyecto web responsive con interacción dinámica y diseño moderno.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🗄️ Sistema de inventario
-
-Gestión de bases de datos SQL, consultas y administración de información.
-
-</td>
-
-<td width="50%">
-
-
 # 📈 Actualmente aprendiendo
 
 <div align="center">
