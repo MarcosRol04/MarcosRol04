@@ -1,61 +1,136 @@
-# ¡Hola! Soy Marcos 👋
+<div align="center">
 
-🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)  
-💻 Apasionado por el desarrollo de software, las tecnologías web y la resolución de problemas  
-🚀 Interesado en tecnologías Salesforce, desarrollo moderno y herramientas de IA aplicadas al desarrollo  
+# 👨‍💻 Marcos Rol
+
+### Desarrollador DAM | Java · React · Python · Salesforce
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desarrollador+Multiplataforma;Java+%7C+React+%7C+Python+%7C+SQL;Salesforce+Developer;Apasionado+por+la+tecnolog%C3%ADa+y+la+IA" />
+
+</div>
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+# 🚀 Sobre mí
 
-### Lenguajes
-- Java
-- Python
-- Kotlin
-- JavaScript
-- SQL
-- HTML5 & CSS3
+💻 Desarrollador apasionado por el software, las tecnologías web y el aprendizaje constante.
 
-### Frameworks y tecnologías
-- React
+🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
+
+⚡ Experiencia en:
+- Desarrollo web
+- Bases de datos
 - Salesforce
-- Git & GitHub
-- MySQL
-- Diseño Web Responsive
+- Mantenimiento informático
+- Entornos financieros
+
+🤖 Interesado en IA aplicada al desarrollo y automatización.
 
 ---
 
-## 📌 Proyectos destacados
+# 🛠️ Tecnologías
 
-🔹 Plataforma web para centro educativo  
-Aplicación web enfocada en diseño responsive e interacción con usuarios.
+<div align="center">
 
-🔹 Proyecto de estadísticas y predicción de fútbol  
-Aplicación orientada al análisis de partidos, estadísticas y cálculo de probabilidades.
+## Lenguajes
 
-🔹 Sistema de gestión de inventario  
-Proyecto basado en bases de datos SQL, consultas y gestión de información.
+<img src="https://skillicons.dev/icons?i=java,python,kotlin,js,html,css,sql" />
 
-🔹 Aplicaciones Java  
-Proyectos desarrollados con programación orientada a objetos, herencia y validaciones.
+## Frameworks y herramientas
+
+<img src="https://skillicons.dev/icons?i=react,mysql,git,github,vscode" />
+
+</div>
 
 ---
 
-## 📈 Actualmente aprendiendo
+# 📌 Proyectos destacados
 
-- Desarrollo avanzado con React
+<table>
+<tr>
+<td width="50%">
+
+## ⚽ Predictor de fútbol
+
+Aplicación orientada al análisis de estadísticas y cálculo de probabilidades deportivas.
+
+</td>
+
+<td width="50%">
+
+## 🏫 Plataforma educativa
+
+Proyecto web responsive con interacción dinámica y diseño moderno.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🗄️ Sistema de inventario
+
+Gestión de bases de datos SQL, consultas y administración de información.
+
+</td>
+
+<td width="50%">
+
+## ☕ Aplicaciones Java
+
+Programación orientada a objetos, herencia, validaciones y estructuras avanzadas.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📈 Actualmente aprendiendo
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,python" />
+
+</div>
+
+- Arquitectura de software
+- APIs e integraciones
 - Ecosistema Salesforce
-- Integración de APIs
-- Herramientas de IA aplicadas al desarrollo
-- Buenas prácticas y arquitectura de software
+- IA aplicada al desarrollo
+- Buenas prácticas de desarrollo
 
 ---
 
-## 🌍 Contacto
+# 📊 Estadísticas
 
-- LinkedIn: [Añadir enlace]
-- GitHub: https://github.com/MarcosRol04
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MarcosRol04&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosRol04&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-⭐ Siempre aprendiendo nuevas tecnologías y mejorando como desarrollador.
+# 🌍 Contacto
+
+<div align="center">
+
+<a href="TU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MarcosRol04">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Siempre aprendiendo y mejorando como desarrollador
+
+</div>
