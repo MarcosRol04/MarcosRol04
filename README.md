@@ -1,155 +1,124 @@
-<div align="center">
+# Marcos Rol
 
-# 👨‍💻 Marcos Rol
+**Desarrollador de Aplicaciones Multiplataforma | Java · Python · TypeScript · SQL · Salesforce**
 
-### Desarrollador DAM | Java · Apex · Python · Salesforce
+Desarrollador de software con formación en Desarrollo de Aplicaciones Multiplataforma (DAM) y experiencia en desarrollo y configuración de soluciones Salesforce en un entorno financiero.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desarrollador+Multiplataforma;Java+%7C+React+%7C+Python+%7C+SQL;Salesforce+Developer;Apasionado+por+la+tecnolog%C3%ADa+y+la+IA" />
+Interesado en el desarrollo web, el backend, las bases de datos y la automatización de procesos. Mi objetivo es construir aplicaciones funcionales, mantenibles y orientadas a resolver problemas reales.
 
-</div>
-
----
-
-# Sobre mí
-
-💻 Desarrollador apasionado por el software, las tecnologías web y el aprendizaje constante.
-
-🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
-
-Experiencia en:
-- Desarrollo web
-- Bases de datos
-- Salesforce
-- Mantenimiento informático
-- Entornos financieros
-
-🤖 Interesado en IA aplicada al desarrollo y automatización.
+[LinkedIn](https://www.linkedin.com/in/marcos-rol-martinez-518170326/) · [Portfolio](https://marcosrol04.github.io/CurriculumWeb/) · [Contacto](mailto:marcosrolm23@icloud.com)
 
 ---
 
-#  Tecnologías
+## Tecnologías y herramientas
 
-<div align="center">
+**Lenguajes**
 
-## Lenguajes
+Java · Python · JavaScript · TypeScript · SQL · Kotlin · HTML · CSS
 
-<img src="https://skillicons.dev/icons?i=java,python,kotlin,js,html,css,sql" />
+**Desarrollo web**
 
-## Frameworks y herramientas
+React · Next.js · Node.js · Tailwind CSS
 
-<img src="https://skillicons.dev/icons?i=react,mysql,git,github,vscode" />
+**Bases de datos**
 
-</div>
+PostgreSQL · MySQL · Supabase
 
----
+**Plataformas empresariales**
 
-# 📈 Actualmente aprendiendo
+Salesforce · Apex · Lightning Web Components · SOQL · Power Automate
 
-<div align="center">
+**Herramientas**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,python" />
-
-</div>
-
-- Arquitectura de software
-- APIs e integraciones
-- Ecosistema Salesforce
-- IA aplicada al desarrollo
-- Buenas prácticas de desarrollo
+Git · GitHub · VS Code · Prisma ORM
 
 ---
 
----
+## Proyectos destacados
 
-# 🌐 Proyectos Web
+### 01. NexoFlow — Gestión de finanzas personales
 
-<div align="center">
+Aplicación web para gestionar las finanzas personales desde un único entorno, con funcionalidades de control de movimientos, presupuestos, planificación financiera y objetivos de ahorro.
 
-<table>
+**Funcionalidades principales**
+- Gestión de cuentas, ingresos, gastos y transferencias.
+- Control de presupuestos y categorías de gasto.
+- Objetivos y planificación del ahorro.
+- Calendario financiero y simulación de escenarios.
+- Persistencia de datos mediante PostgreSQL.
 
-<tr>
+**Tecnologías:** Next.js · React · TypeScript · PostgreSQL · Prisma ORM · Tailwind CSS
 
-<td width="50%" align="center">
+**Estado:** desarrollo en curso. Disponible para ejecución local.
 
-<h3>🔐 Plataforma de gestión con panel oculto</h3>
-
-<p>
-Desarrollo de una solución web orientada a la gestión segura de contenido y recompensas para un creador de contenido.
-</p>
-
-<p>
-Incluye un panel de administración privado que permite publicar y gestionar contenido, evitando automatizaciones mediante bots o scripts.
-</p>
-
-<p>
-Proyecto aplicado a un caso real, enfocado en control de acceso y lógica de negocio.
-</p>
-
-<a href="https://ampeterkey.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/Ver%20proyecto-00C853?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>🎮 CS2 Case Simulator</h3>
-
-<p>
-Simulador web inspirado en la apertura de cajas de Counter Strike desarrollado como proyecto de aprendizaje.
-</p>
-
-<p>
-Incluye sistemas de upgrades, contratos y animaciones en JavaScript para crear una experiencia interactiva.
-</p>
-
-<p>
-Proyecto enfocado en práctica de HTML, CSS, JavaScript y despliegue con Netlify y GitHub.
-</p>
-
-<a href="https://cs2casessimulator.netlify.app/index.html" target="_blank">
-<img src="https://img.shields.io/badge/Ver%20proyecto-FF6B00?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+[Consultar repositorio](https://github.com/MarcosRol04/NexoFlow)
 
 ---
 
-#  Gracias por visitar mi perfil
+### 02. MATCHZONE — Plataforma web de fútbol
 
-<div align="center">
+Aplicación web centrada en el fútbol, desarrollada con tecnologías modernas para ofrecer contenido dinámico y funcionalidades de gestión.
 
-💻 Desarrollador en constante aprendizaje  
-🤖 Interesado en IA, automatización y desarrollo moderno  
-📫 Abierto a prácticas, colaboraciones y oportunidades  
+**Características**
+- Autenticación y gestión de roles.
+- Panel de administración.
+- Integración con APIs externas.
+- Control de acceso a los datos mediante políticas RLS.
+- Configuración de SEO y despliegue web.
 
+**Tecnologías:** Next.js · TypeScript · Supabase
 
-<img src="https://komarev.com/ghpvc/?username=MarcosRol04&label=Visitas%20al%20perfil&color=0e75b6&style=flat" />
-
-</div>
-
-
-
----
-# 🌍 Contacto
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/marcos-rol-martinez-518170326/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/MarcosRol04">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+[Consultar proyectos en GitHub](https://github.com/MarcosRol04)
 
 ---
 
+### 03. BETANALITICS — Análisis deportivo
+
+Proyecto web orientado al análisis de información deportiva y a la presentación de datos mediante una interfaz interactiva.
+
+Desarrollado como proyecto personal para trabajar con tecnologías frontend, organización del código y publicación de aplicaciones web.
+
+**Tecnologías:** React · JavaScript · Tailwind CSS · Vite
+
+[Ver aplicación](https://marcosrol04.github.io/BetAnalitics/) · [Consultar repositorio](https://github.com/MarcosRol04/BetAnalitics)
+
+---
+
+## Experiencia y formación
+
+**Desarrollo Salesforce — VASS**
+
+Participación en tareas de desarrollo y configuración de soluciones Salesforce dentro del sector financiero.
+
+**Desarrollo y soporte informático — CEPA Joaquín Sorolla**
+
+Mantenimiento de equipos, soporte técnico, desarrollo web y gestión de bases de datos.
+
+**Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+IES Virgen de la Paloma · Madrid
+
+**Grado Medio en Sistemas Microinformáticos y Redes (SMR)**
+
+---
+
+## En qué estoy trabajando
+
+- Desarrollo de aplicaciones web completas, desde el frontend hasta la base de datos.
+- Diseño de APIs e integración de servicios.
+- Automatización de procesos empresariales.
+- Aplicación de inteligencia artificial a soluciones de software.
+- Mejora de la arquitectura, las pruebas y la calidad del código.
+
+---
+
+## Contacto
+
+Estoy abierto a nuevas oportunidades profesionales, proyectos tecnológicos y colaboraciones en desarrollo de software.
+
+[LinkedIn](https://www.linkedin.com/in/marcos-rol-martinez-518170326/)  
+[GitHub](https://github.com/MarcosRol04)  
+[Correo electrónico](mailto:marcosrolm23@icloud.com)
+
+---
+
+*Construyendo, aprendiendo y mejorando mediante proyectos reales.*
