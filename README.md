@@ -55,34 +55,6 @@ Aplicación web para gestionar las finanzas personales desde un único entorno, 
 
 ---
 
-### 02. MATCHZONE — Plataforma web de fútbol
-
-Aplicación web centrada en el fútbol, desarrollada con tecnologías modernas para ofrecer contenido dinámico y funcionalidades de gestión.
-
-**Características**
-- Autenticación y gestión de roles.
-- Panel de administración.
-- Integración con APIs externas.
-- Control de acceso a los datos mediante políticas RLS.
-- Configuración de SEO y despliegue web.
-
-**Tecnologías:** Next.js · TypeScript · Supabase
-
-[Consultar proyectos en GitHub](https://github.com/MarcosRol04)
-
----
-
-### 03. BETANALITICS — Análisis deportivo
-
-Proyecto web orientado al análisis de información deportiva y a la presentación de datos mediante una interfaz interactiva.
-
-Desarrollado como proyecto personal para trabajar con tecnologías frontend, organización del código y publicación de aplicaciones web.
-
-**Tecnologías:** React · JavaScript · Tailwind CSS · Vite
-
-[Ver aplicación](https://marcosrol04.github.io/BetAnalitics/) · [Consultar repositorio](https://github.com/MarcosRol04/BetAnalitics)
-
----
 
 ## Experiencia y formación
 
